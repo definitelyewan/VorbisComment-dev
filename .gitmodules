@@ -1,0 +1,3 @@
+[submodule "util/ByteStream"]
+	path = util/ByteStream
+	url = https://github.com/definitelyewan/ByteStream
